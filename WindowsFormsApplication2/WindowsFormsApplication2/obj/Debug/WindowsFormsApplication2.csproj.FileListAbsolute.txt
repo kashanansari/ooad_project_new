@@ -1,0 +1,38 @@
+C:\Users\GRACE COM\Desktop\New Practice\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\GRACE COM\Desktop\New Practice\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\GRACE COM\Desktop\New Practice\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\GRACE COM\Desktop\New Practice\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\GRACE COM\Desktop\New Practice\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.admin_login.resources
+C:\Users\GRACE COM\Desktop\New Practice\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\GRACE COM\Desktop\New Practice\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.student_login.resources
+C:\Users\GRACE COM\Desktop\New Practice\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\GRACE COM\Desktop\New Practice\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.student_signup.resources
+C:\Users\GRACE COM\Desktop\New Practice\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.teacher_login.resources
+C:\Users\GRACE COM\Desktop\New Practice\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.teacher_signup.resources
+C:\Users\GRACE COM\Desktop\New Practice\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\GRACE COM\Desktop\New Practice\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\GRACE COM\Desktop\New Practice\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\GRACE COM\Desktop\New Practice\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.student_dashboard.resources
+C:\Users\GRACE COM\Desktop\New Practice\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.student_dashboardcs.resources
+C:\Users\GRACE COM\Desktop\New Practice\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.admin_dashboard.resources
+C:\Users\GRACE COM\Desktop\New Practice\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.create_class_schedule.resources
+C:\Users\GRACE COM\Desktop\New Practice\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.teacher_dashboard.resources
+C:\Users\GRACE COM\Desktop\New Practice\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.view_class_schedular.resources
+C:\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.admin_dashboard.resources
+C:\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.admin_login.resources
+C:\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.create_class_schedule.resources
+C:\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.student_dashboard.resources
+C:\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.student_login.resources
+C:\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.student_signup.resources
+C:\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.teacher_dashboard.resources
+C:\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.teacher_login.resources
+C:\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.teacher_signup.resources
+C:\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
